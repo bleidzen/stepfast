@@ -1,0 +1,6 @@
+native/target/
+native/.cache/
+tests/*.png
+StepFast.exe
+native/occt-runtime/python/
+native/occt-runtime/packages/
